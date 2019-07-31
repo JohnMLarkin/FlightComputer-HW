@@ -10,7 +10,7 @@ The PCB files can be found on `GitHub <https://github.com/JohnMLarkin/FlightComp
 
 The PCBs were designed using `Fritzing <https://fritzing.org>`_, an easy to use (and free) electronic prototyping tool suitable for simple designs. Fritzing design files have the extension ``fzz``.  This design is then exported from Fritzing as a collection of *gerber* files, saved as a single zip archive.
 
-There are several companies that can make the PCBs for you from the gerber files. We have had great success with `OSH Park <https://oshpark.com>`_. If you want to order the most recent version of either board directly from them, you can do so (`standard <https://oshpark.com/shared_projects/nXXAHcDw>`_, `mini <https://oshpark.com/shared_projects/EYISRbfR>`_).
+There are several companies that can make the PCBs for you from the gerber files. We have had great success with `OSH Park <https://oshpark.com>`_. If you want to order the most recent version of either board directly from them, you can do so (`standard <https://oshpark.com/shared_projects/nXXAHcDw>`_, `mini <https://oshpark.com/shared_projects/EYISRbfR>`_). In July 2019 these were available for $109 (standard, set of 3) or $40 (mini, set of 3) before shipping and any applicable tax.
 
 3D Printed Parts
 ----------------

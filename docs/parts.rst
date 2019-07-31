@@ -86,9 +86,14 @@ list-table:: Common components for either Flight Computer
     - 80001-5
     - `Tenergy <https://power.tenergy.com/standard-male-tamiya-connector-battery-side/>`_ 
 
+A charger for the battery is also required. For the battery pack specified an appropriate choice is the Tenergy TLP-2000 (`Tenergy <https://power.tenergy.com/tenergy-tlp-2000-smart-charger-for-li-ion-lipo-battery-packs-3-7v-14-8v/>`_). This charger can be shared among multiple Flight Computers.
+
 Connecting the Flight Computer PCB to the external interface also requires flat ribbon cable (10 conductors).  We buy this by the meter (`Digi-Key <https://www.digikey.com/product-detail/en/wurth-electronics-inc/63911015521CAB/732-11801-ND/8324551>`_) and cut an appropriate length.
 
-A charger for the battery is also required. For the battery pack specified an appropriate choice is the Tenergy TLP-2000 (`Tenergy <https://power.tenergy.com/tenergy-tlp-2000-smart-charger-for-li-ion-lipo-battery-packs-3-7v-14-8v/>`_).
+We also use standard perf board (like `this <https://www.digikey.com/product-detail/en/vector-electronics/64P44XXXP/V1043-ND/37918>`_) in the assembly of the external interface. You just need a 2 hole by 5 hole piece so this might easily be scrap from some other project.
+
+Additions for Standard Flight Computer
+--------------------------------------
 
 If you are assembling a **standard** Flight Computer, you will also need female header sockets in various lengths (with 2.54 mm pitch).  Those lengths and the number required are:
 
@@ -98,6 +103,11 @@ If you are assembling a **standard** Flight Computer, you will also need female 
 * 2 pins (9)
 
 We use breakaway female header strip and cut it to length. Cutting always sacrifices one pin and then the edges are smoothed. We have had good success with Adafruit's 598 (5 pack of 36-pin strips) and the price is less than many other options (`Digi-Key <https://www.digikey.com/products/en?keywords=1528-2537-ND>`_).
+
+The breadboard clip on the standard Flight Computer (one of the custom 3D printed components) is designed for a half-size solderless breadboard (for example, Adafruit's `64 <https://www.digikey.com/product-detail/en/adafruit-industries-llc/64/1528-2182-ND/7241427>`_). If you want something more permanent than a solderless breadboard, Adafruit makes a `perma-proto half-sized breadboard PCB <https://www.digikey.com/products/en/prototyping-fabrication-products/prototype-boards-perforated/636?k=adafruit%20571>`_ that has the same mounting hole spacing as our breadboard clip.
+
+Addition for Mini Flight Computer
+---------------------------------
 
 If you are assembling a **mini** Flight Computer, you will also need a 3-pin screw terminal block (with 3.5 mm pitch). We use Wurth Electronics part 691214110003 (`Digi-Key <https://www.digikey.com/product-detail/en/wurth-electronics-inc/691214110003/732-2748-ND/2508517>`_).
 
