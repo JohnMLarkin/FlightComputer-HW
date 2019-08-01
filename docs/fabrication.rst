@@ -6,7 +6,7 @@ The Flight Computer requires the fabrication of some custom components: a printe
 Printed Circuit Boards
 ----------------------
 
-The PCB files can be found on `GitHub <https://github.com/JohnMLarkin/FlightComputer-HW>`_ in the ``pcb`` folder for the standard-sized Flight Computer and ``pcb/mini`` folder for the mini. The most recent versions are at the top-level of these folders but older versions can be found in the ``archive`` folder.
+The PCB files can be found on `GitHub <https://github.com/JohnMLarkin/FlightComputer-HW>`_ in the ``pcb/standard`` folder for the standard-sized Flight Computer and ``pcb/mini`` folder for the mini. The most recent versions are at the top-level of these folders but older versions can be found in the ``archive`` folder.
 
 The PCBs were designed using `Fritzing <https://fritzing.org>`_, an easy to use (and free) electronic prototyping tool suitable for simple designs. Fritzing design files have the extension ``fzz``.  This design is then exported from Fritzing as a collection of *gerber* files, saved as a single zip archive.
 
