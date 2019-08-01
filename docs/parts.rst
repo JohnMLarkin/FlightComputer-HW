@@ -7,6 +7,7 @@ Assembly of a Flight Computer requires the following electronic components and c
 
 ..  list-table:: Common components for either Flight Computer
   :header-rows: 1
+  :widths: auto
 
   * - Description
     - Manufacturer
@@ -90,7 +91,7 @@ Assembly of a Flight Computer requires the following electronic components and c
     - `Tenergy <https://power.tenergy.com/standard-male-tamiya-connector-battery-side/>`__ 
 
 
-A charger for the battery is also required. For the battery pack specified an appropriate choice is the Tenergy TLP-2000 (`Tenergy <https://power.tenergy.com/tenergy-tlp-2000-smart-charger-for-li-ion-lipo-battery-packs-3-7v-14-8v/>`__). This charger can be shared among multiple Flight Computers.
+A charger for the battery is also required. For the battery pack specified, an appropriate choice is the Tenergy TLP-2000 (`Tenergy <https://power.tenergy.com/tenergy-tlp-2000-smart-charger-for-li-ion-lipo-battery-packs-3-7v-14-8v/>`__). This charger can be shared among multiple Flight Computers.
 
 Connecting the Flight Computer PCB to the external interface also requires flat ribbon cable (10 conductors).  We buy this by the meter (`Digi-Key <https://www.digikey.com/product-detail/en/wurth-electronics-inc/63911015521CAB/732-11801-ND/8324551>`__) and cut an appropriate length.
 

@@ -13,6 +13,7 @@
    overview
    fabrication
    parts
+   assembly
 
 
 Indices and tables
